@@ -25,3 +25,11 @@
 5.get_question_token_data：获取问题token以及其他信息（可根据token抓取评论，写了个demo但未更新完）
 
 -------------------------------------------------------------------------------------------------------------------------
+
+🚩[ToutiaoSign.py](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider/ToutiaoSign.py)
+
+1.[Sign.js](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider/Sign.js)：document.cookie是空则生成短signature、加入cookie则生成长signature
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
