@@ -1,6 +1,6 @@
 # SpiderProject
 
-🚩[B站up主、视频爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/BilibiliSpider/BilibiliVideo.py)
+🚩[B站up主、视频爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/BilibiliSpider)
 
 1.sign解密、BV号转AV号
 
@@ -12,7 +12,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-🚩[知乎类型id、问题、评论爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/ZhihuSpider/ZhihuContent.py)
+🚩[知乎类型id、问题、评论爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/ZhihuSpider)
 
 1.d_c0：cookies（建议随机cookies、IP代理）
 
@@ -26,7 +26,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-🚩[今日头条signature解密](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider/GetSign.py)
+🚩[今日头条signature解密](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider)
 
 1.[ToutiaoSign.py](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider/GetSign.py)：signature生成长短测试文件
 
