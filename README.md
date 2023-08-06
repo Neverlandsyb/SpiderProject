@@ -60,7 +60,7 @@
 
 🚩[药智新闻爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/YaozhiNewsSpider)
 
-1.decrypt_data：请求获取加密的data信息、通过[YaozhiNewsDecrypt](https://github.com/Neverlandsyb/SpiderProject/blob/main/YaozhiNewsSpider/YaozhiNewsDecrypt.js)解密
+1.decrypt_data：请求获取加密的data信息、通过[YaozhiNewsDecrypt.js](https://github.com/Neverlandsyb/SpiderProject/blob/main/YaozhiNewsSpider/YaozhiNewsDecrypt.js)解密
 
 2.如果在解密过程中遇见UnicodeDecodeError时，可根据 https://www.cnblogs.com/LoLong/p/17332908.html 文章进行修改即可
 
