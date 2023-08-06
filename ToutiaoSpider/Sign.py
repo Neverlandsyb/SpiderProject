@@ -1,6 +1,6 @@
 import execjs
 
-with open('Sign.js',encoding='utf-8') as f:
+with open('ToutiaoSign.js',encoding='utf-8') as f:
     js_code = f.read()
 
 node = execjs.get()
