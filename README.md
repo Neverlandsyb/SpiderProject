@@ -12,13 +12,13 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-🚩[ZhihuContent.py](https://github.com/Neverlandsyb/SpiderProject/blob/main/BilibiliSpider/ZhihuContent.py)
+🚩[ZhihuContent.py](https://github.com/Neverlandsyb/SpiderProject/blob/main/ZhihuSpider/ZhihuContent.py)
 
 1.d_c0：cookies（建议随机cookies、IP代理）
 
 2.get_type_id：知乎话题广场所有类型里的子id抓取
 
-3.get_headers：知乎请求头构造、[X-Zse-96.js](https://github.com/Neverlandsyb/SpiderProject/blob/main/BilibiliSpider/X-Zse-96.js)参数解密
+3.get_headers：知乎请求头构造、[X-Zse-96.js](https://github.com/Neverlandsyb/SpiderProject/blob/main/ZhihuSpider/X-Zse-96.js)参数解密
 
 4.get_question、parser：知乎问题抓取（答案太多占内存懒得抓了）、数据解析
 
