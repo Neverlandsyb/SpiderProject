@@ -26,9 +26,9 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-🚩[ToutiaoSign.py](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider/ToutiaoSign.py)
+🚩[GetSign.py](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider/GetSign.py)
 
-1.[GetSign.py](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider/GetSign.js)：signature生成长短测试文件
+1.[GetSign.py](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider/GetSign.py)：signature生成长短测试文件
 
 2.[Sign.js](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider/Sign.js)：document.cookie是空则生成短signature、加入cookie则生成长signature
 
