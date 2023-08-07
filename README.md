@@ -1,6 +1,6 @@
 # SpiderProject
 
-🚩[B站up主、视频爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/BilibiliSpider)
+🚩 [B站up主、视频爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/BilibiliSpider)
 
 1.解密：sign解密、BV号转AV号
 
@@ -12,7 +12,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-🚩[知乎类型id、问题、评论爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/ZhihuSpider)
+🚩 [知乎类型id、问题、评论爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/ZhihuSpider)
 
 1.d_c0：cookies（建议随机cookies、IP代理）
 
@@ -26,7 +26,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-🚩[今日头条signature解密](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider)
+🚩 [今日头条signature解密](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider)
 
 1.[ToutiaoSign.py](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider/GetSign.py)：signature生成长短测试文件
 
@@ -34,7 +34,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-🚩[澎湃新闻爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/PengpaiSpider)
+🚩 [澎湃新闻爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/PengpaiSpider)
 
 1.nodeId：类型id（如：25429代表国际等）
 
@@ -46,7 +46,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-🚩[马蜂窝爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/MafengwoSpider)
+🚩 [马蜂窝爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/MafengwoSpider)
 
 1.get_city_id：热门目的地id、景点id抓取
 
@@ -58,7 +58,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-🚩[药智新闻爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/YaozhiNewsSpider)
+🚩 [药智新闻爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/YaozhiNewsSpider)
 
 1.decrypt_data：请求获取加密的data信息、通过[YaozhiNewsDecrypt.js](https://github.com/Neverlandsyb/SpiderProject/blob/main/YaozhiNewsSpider/YaozhiNewsDecrypt.js)解密
 
@@ -66,7 +66,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-🚩[豆瓣搜索爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/DoubanSpider)
+🚩 [豆瓣搜索爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/DoubanSpider)
 
 1.rc4、_read_object：rc4算法解密
 
@@ -75,6 +75,14 @@
 3.参数：search_text（搜索文本）、start（页数，15的倍数）、cat固参
 
 4.流程：获取搜索页面的源码取出其中的window_data加密数据，解密获取明文（最终得出的明文数据排序会随机打乱，需用正则取）
+
+-------------------------------------------------------------------------------------------------------------------------
+
+🚩 [百度知识图谱爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/BaiduRealtionSpider)
+
+1.思路：先从百度搜索拿到剧的名字和百科id，然后访问此剧的百科主页拿到featureId参数，之后带参访问各种图谱api获取三元组数据
+
+2.功能：给定一个剧名、百科id，得到此剧的主要人物关系知识图谱（全部人物关系的可自己分析），最终把剧、演员、角色、介绍等信息存放字典中
 
 -------------------------------------------------------------------------------------------------------------------------
 
