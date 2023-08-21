@@ -108,7 +108,7 @@
 
 🚩 [扇贝单词爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/ShubeiSpider)
 
-1.思路：先登录添加新书到书桌，然后通过api拿到每一本书的id（materialbook_id），然后构造接口去抓所有的单词。
+1.思路：先登录添加新书到书桌，通过api拿到每一本书的id（materialbook_id），然后构造接口去抓所有的单词。
 
 2.解密：网站是webpack，比较简答，直接把webpack解密那部分代码扣出来，定义个参数去接收加载器调用解密函数就可以了，没环境监测。
 
