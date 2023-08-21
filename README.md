@@ -106,7 +106,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-🚩 [扇贝单词爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/ShubeiSpider)
+🚩 [扇贝单词爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/ShanbeiSpider)
 
 1.思路：先登录添加新书到书桌，通过api拿到每一本书的id（materialbook_id），然后构造接口去抓所有的单词。
 
