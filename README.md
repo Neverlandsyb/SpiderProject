@@ -1,5 +1,7 @@
 # SpiderProject
 
+逆向爬虫项目：包括不限于cookie反爬、数据加密、参数加密、混淆、环境监测等。
+
 🚩 [马蜂窝爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/MafengwoSpider)
 
 🚩 [澎湃新闻爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/PengpaiSpider)
