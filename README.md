@@ -2,6 +2,8 @@
 
 ## __逆向爬虫：包括不限于cookie反爬、数据&参数加密、混淆、环境监测等。__
 
+🚩 [得物爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/DeWuSpider)
+
 🚩 [马蜂窝爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/MafengwoSpider)
 
 🚩 [澎湃新闻爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/PengpaiSpider)
