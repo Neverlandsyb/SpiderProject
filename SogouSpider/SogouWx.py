@@ -45,6 +45,7 @@ class SogouSearch:
         获取搜狗中转链接
         :return:
         """
+        self.get_suv()
         self.HEADERS["Referer"] = self.URL
         main_url_res = requests.get(self.URL, headers=self.HEADERS)
 
