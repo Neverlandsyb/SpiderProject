@@ -24,6 +24,8 @@
 
 🚩 [豆瓣搜索rc4算法解密](https://github.com/Neverlandsyb/SpiderProject/blob/main/DoubanSpider)
 
+🚩 [搜狗微信公众号号爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/SogouSpider)
+
 🚩 [今日头条signature解密](https://github.com/Neverlandsyb/SpiderProject/blob/main/ToutiaoSpider)
 
 🚩 [知乎类型id、问题、评论爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/ZhihuSpider)
