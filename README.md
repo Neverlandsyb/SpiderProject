@@ -18,6 +18,8 @@
 
 🚩 [极简壁纸爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/SimpleSpider)
 
+🚩 [动脉橙PDF爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/VbdataSpider)
+
 🚩 [百科知识图谱爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/BaiduRelationSpider)
 
 🚩 [B站up主、视频爬虫](https://github.com/Neverlandsyb/SpiderProject/blob/main/BilibiliSpider)
